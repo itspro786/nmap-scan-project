@@ -8,3 +8,5 @@ his project contains Nmap scan results on the target IP `192.168.134.132`.
 - **Service & Version Detection**: `scan-services.txt`
 - **Aggressive Scan**: `scan-aggressive.txt`
 - **Full Port Scan**: `scan-full-ports.txt`
+
+⚠️ For educational purposes only. Scanning must be done only on authorized systems.
