@@ -1,12 +1,14 @@
-# nmap-scan-project
+# 🔍 Nmap Network Port Scan
 
-his project contains Nmap scan results on the target IP `192.168.134.132`.
+## ✅ Task Objective
+Perform basic TCP SYN scan on local network to discover open ports and understand exposure.
 
-## Scans Performed
+## 🛠 Tools Used
+- Nmap
+- Wireshark (Optional)
 
-- **Basic Scan**: scan-basic.txt
-- **Service & Version Detection**: `scan-services.txt`
-- **Aggressive Scan**: `scan-aggressive.txt`
-- **Full Port Scan**: `scan-full-ports.txt`
+## 💻 Command Used
+```bash
+nmap -sS 192.168.0.0/24 -oN nmap_scan_result.txt
 
 ⚠️ For educational purposes only. Scanning must be done only on authorized systems.
