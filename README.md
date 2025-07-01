@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Internship – Task 1: 
+# 🛡️ Cybersecurity Internship – Task 1
 
 #Nmap TCP SYN Scan
 
